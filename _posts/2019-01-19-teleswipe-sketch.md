@@ -24,6 +24,7 @@ organiser: "Lucas Gatsas"
 </pre></pre></div>
 
 
+<img srec="img/20190219_191654.jpg">
 
 
 
