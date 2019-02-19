@@ -14,6 +14,7 @@ organiser: "Lucas Gatsas"
 <h2 class="section-heading">Start with TeleSwipe </h2>
 
 
+<img src="{{ site.baseurl }}/img/20190219_191654.jpg"/>
 
 
 If you have any Issue, Bug, Details and Submites, please Contact Us:  <a href="https://github.com/TeleSwipe/teleswipe.github.io/issues"> issue</a> 

@@ -14,17 +14,8 @@ organiser: "Lucas Gatsas"
 <h2 class="section-heading"> Start with Teleswipe Sketches</h2>
 
 
-<br>
 
-
-<div style="overflow:auto; height=200; width=100%;">
-<pre style="color:black;background:white;"><pre>
-
-
-</pre></pre></div>
-
-
-<img srec="img/20190219_191654.jpg">
+<img src="{{ site.baseurl }}/img/20190219_191654.jpg"/>
 
 
 

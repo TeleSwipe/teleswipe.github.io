@@ -500,39 +500,6 @@ code {
     color: white;
     border-radius: 4px;
 }
-pre {
-    background-color: #111;
-    color: #ccc;
-    font-size: 16px;
-    margin: 0 0 30px;
-    padding: 15px;
-    white-space: pre;
-    padding: 0.3em;
-    padding-left: 0.8em;
-    border-left: 0.5em solid #1800ff;
-    background: white;
-    /* background: #eee; */
-    font-family: "Courier 10 Pitch", Courier, monospace;
-    font-size: 15px;
-    font-size: 1.5rem;
-    line-height: 1.8;
-    margin-bottom: 1.6em;
-    max-width: 100%;
-    overflow: auto;
-    padding: 1.6em;
-    color: #1800ff;
-    font-weight: lighter;
-    font-size: 14px;
-    /* background: #eee; */
-    font-family: "Courier 10 Pitch", Courier, monospace;
-    font-size: 15px;
-    /* font-size: 1.5rem; */
-    line-height: 1.2;
-    margin-bottom: 1.6em;
-    max-width: 100%;
-    overflow: auto;
-    padding: 1.6em;
-}
 
 pre code {
 	border: 0;
@@ -2778,5 +2745,5 @@ pre .storage {
 
 
 h2.section-heading {
-    color: blue;
+    color: black;
 }

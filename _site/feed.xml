@@ -6,21 +6,15 @@
 </description>
     <link>http://localhost:8000/</link>
     <atom:link href="http://localhost:8000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Feb 2019 00:18:22 +0100</pubDate>
-    <lastBuildDate>Wed, 20 Feb 2019 00:18:22 +0100</lastBuildDate>
+    <pubDate>Wed, 20 Feb 2019 00:27:58 +0100</pubDate>
+    <lastBuildDate>Wed, 20 Feb 2019 00:27:58 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Start with Teleswipe Sketches</title>
         <description>&lt;h2 class=&quot;section-heading&quot;&gt; Start with Teleswipe Sketches&lt;/h2&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div style=&quot;overflow:auto; height=200; width=100%;&quot;&gt;
-&lt;pre style=&quot;color:black;background:white;&quot;&gt;&lt;pre&gt;
-
-
-&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;/img/20190219_191654.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;If you have any Issue, Bug, Details and Submites, please Contact Us:  &lt;a href=&quot;https://github.com/TeleSwipe/teleswipe.github.io/issues&quot;&gt; issue&lt;/a&gt; 
 Link: &lt;a href=&quot;https://github.com/TeleSwipe/&quot;&gt; TeleSwipe Github Account &lt;/a&gt;&lt;/p&gt;
@@ -36,6 +30,8 @@ Link: &lt;a href=&quot;https://github.com/TeleSwipe/&quot;&gt; TeleSwipe Github 
       <item>
         <title>Start with Teleswipe</title>
         <description>&lt;h2 class=&quot;section-heading&quot;&gt;Start with TeleSwipe &lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/20190219_191654.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;If you have any Issue, Bug, Details and Submites, please Contact Us:  &lt;a href=&quot;https://github.com/TeleSwipe/teleswipe.github.io/issues&quot;&gt; issue&lt;/a&gt; 
 Link: &lt;a href=&quot;https://github.com/TeleSwipe/&quot;&gt; TeleSwipe Github Account &lt;/a&gt;&lt;/p&gt;
