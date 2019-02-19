@@ -2,10 +2,9 @@
 layout: post
 
 #event information
-title:  "bycrypt"
+title:  "Start with Teleswipe"
 cover: "img/Halle-E_G5__c_-Rupert-Steiner_web.jpg"
-date:   2016-01-15
-date:   2015-03-03
+date:   2019-01-15
 
 #event organiser details
 organiser: "Lucas Gatsas"
