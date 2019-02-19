@@ -17,10 +17,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://teleswipe.github.io" # the base hostname & protocol for your site
 
 #These settings might be able to go?
-author: Lucas Gatsas @ spacedig.ch 
-twitter_username: lucasgatsas
+author: TeleSwipe
+twitter_username: TeleSwipe
 github_username:  teleswipe
-company_name: lucasgatsas
+company_name: TeleSwipe
 
 # Build settings
 markdown: kramdown
