@@ -6,20 +6,20 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: l.g
+title: teleswipe
 #What is the name of the events or talks you would like to host? (Example Brownbags, Talks, Lighting Talks)
 event_label: Events
 
 description: > # "
-  l.g , is a Web -Developer, Front -End Engineer & UI/UX Designer based in  St. Gallen, Switerland.
+  TeleSwipe V.0.1
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://spaceg.github.io" # the base hostname & protocol for your site
+url: "http://teleswipe.github.io" # the base hostname & protocol for your site
 
 #These settings might be able to go?
 author: Lucas Gatsas @ spacedig.ch 
 twitter_username: lucasgatsas
-github_username:  spaceg
+github_username:  teleswipe
 company_name: lucasgatsas
 
 # Build settings
